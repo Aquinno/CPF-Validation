@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\bin\Debug\net8.0\ChecadorDeCPF.exe
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\bin\Debug\net8.0\ChecadorDeCPF.deps.json
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\bin\Debug\net8.0\ChecadorDeCPF.runtimeconfig.json
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\bin\Debug\net8.0\ChecadorDeCPF.dll
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\bin\Debug\net8.0\ChecadorDeCPF.pdb
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\obj\Debug\net8.0\ChecadorDeCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\obj\Debug\net8.0\ChecadorDeCPF.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\obj\Debug\net8.0\ChecadorDeCPF.AssemblyInfo.cs
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\obj\Debug\net8.0\ChecadorDeCPF.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\obj\Debug\net8.0\ChecadorDeCPF.dll
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\obj\Debug\net8.0\refint\ChecadorDeCPF.dll
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\obj\Debug\net8.0\ChecadorDeCPF.pdb
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\obj\Debug\net8.0\ChecadorDeCPF.genruntimeconfig.cache
+C:\Users\vinic\source\repos\ChecadorDeCPF\ChecadorDeCPF\obj\Debug\net8.0\ref\ChecadorDeCPF.dll
